@@ -1,0 +1,7 @@
+# Indian Geographical Journal Title Analysis
+
+Super quick analysis of the titles of the Indian Geographical Journal.
+
+- [data.txt](./data.txt) is the article titles
+- [tf-idf.txt](./tf-idf.txt) is word importance according to tf-idf algorithm
+- [frequency.txt](./frequency.txt) is just basic word frequency
